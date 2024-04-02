@@ -1,10 +1,3 @@
-; ************************
-; ************************
-
-; GOLUB OLEKSANDRA 856706
-
-; ************************
-; ************************
 
 (defparameter *graphs* (make-hash-table :test #'equal))
 (defparameter *vertices* (make-hash-table :test #'equal))
