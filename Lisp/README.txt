@@ -1,8 +1,3 @@
-Progetto realizzato da: 
-GOLUB OLEKSANDRA 856706
-
-
-
 Le dichiarazioni di hash table iniziali 
 - *graphs*, utilizzato per gestire l'esistenza di grafi; 
 - *vertices*, utilizzato per gestire i vertici all'interno dei grafi;
