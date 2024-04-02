@@ -1,7 +1,3 @@
-Progetto realizzato da: 
-GOLUB OLEKSANDRA 856706
-
-
 Inizialmente viene dichiarata una serie di predicati come dinamici:
 - dynamic graph/1 che gestisce l'esistenza di grafi;
 - dynamic vertex/2 che gestisce i vertici all'interno dei grafi;
